@@ -1,0 +1,25 @@
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\ResolveAssemblyReference.cache
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.MeshCreator.MeshCreatorControl.resources
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.Properties.Resources.resources
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorControl.resources
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorHelpWindow.resources
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorMapView.resources
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.RoomsEditor.RoomsEditorTexturesEdit.resources
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.csproj.GenerateResource.Cache
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.dll
+C:\TgcViewer-2012-1C\TgcViewer\Examples\obj\Debug\Examples.pdb
+C:\TgcViewer-2012-1C\TgcViewer\Examples\Examples.dll
+C:\TgcViewer-2012-1C\TgcViewer\Examples\Examples.pdb
+C:\TgcViewer-2012-1C\TgcViewer\Examples\Ionic.Zip.dll
+C:\TgcViewer-2012-1C\TgcViewer\Examples\TgcViewer.exe
+C:\TgcViewer-2012-1C\TgcViewer\Examples\TgcViewer.pdb
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\obj\Debug\Examples.Properties.Resources.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\obj\Debug\Examples.csproj.GenerateResource.Cache
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\obj\Debug\Examples.dll
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\obj\Debug\Examples.pdb
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\Examples.dll
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\Examples.pdb
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\Ionic.Zip.dll
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\TgcViewer.exe
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\Examples\TgcViewer.pdb
