@@ -1,0 +1,32 @@
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.MainForm.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Properties.Resources.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Modifiers.TgcMeshBrowser.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Modifiers.TgcTextureBrowser.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Networking.TgcNetworkingModifierClientsDialog.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Networking.TgcNetworkingModifierControl.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Networking.TgcNetworkingModifierServersDialog.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Ui.AboutWindow.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.Utils.Ui.FullScreenPanel.resources
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.csproj.GenerateResource.Cache
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.exe
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.pdb
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer.exe
+C:\TgcViewer-2012-1C\TgcViewer\TgcViewer.pdb
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.exe
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer\TgcViewer\obj\Debug\TgcViewer.pdb
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.exe
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.pdb
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.MainForm.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Properties.Resources.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Modifiers.TgcMeshBrowser.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Modifiers.TgcTextureBrowser.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Networking.TgcNetworkingModifierClientsDialog.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Networking.TgcNetworkingModifierControl.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Networking.TgcNetworkingModifierServersDialog.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Ui.AboutWindow.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.Utils.Ui.FullScreenPanel.resources
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer\obj\Debug\TgcViewer.csproj.GenerateResource.Cache
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer.exe
+C:\Users\Nico\Documents\Facultad\Tecnicas Graficas por Computadora\TgcViewer-2012-1C\TgcViewer - copia\TgcViewer.pdb
