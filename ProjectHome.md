@@ -1,0 +1,1 @@
+Implementado en c sharp, necesitas instalar DirectX
